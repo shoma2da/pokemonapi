@@ -1,0 +1,8 @@
+{
+  "name": "ズバット",
+  "classification": "こうもり",
+  "type": ["どく", "ひこう"],
+  "image": "http://pokemonapi.net/images/041.gif",
+  "comment": "両方の目が存在しない。口から超音波を出して暗闇を飛び回る。",
+  "follow_developer": "https://twitter.com/intent/user?screen_name=shoma2da"
+}

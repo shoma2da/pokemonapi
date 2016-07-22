@@ -1,0 +1,8 @@
+{
+  "name": "イワーク",
+  "classification": "いわへび",
+  "type": ["いわ", "じめん"],
+  "image": "http://pokemonapi.net/images/095.gif",
+  "comment": "普段は土の中に住んでいる。地中を時速80キロで掘りながらエサを探す。",
+  "follow_developer": "https://twitter.com/intent/user?screen_name=shoma2da"
+}

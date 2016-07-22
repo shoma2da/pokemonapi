@@ -1,0 +1,8 @@
+{
+  "name": "ライチュウ",
+  "classification": "ねずみ",
+  "type": ["でんき"],
+  "image": "http://pokemonapi.net/images/026.gif",
+  "comment": "電撃は10万ボルトに達する事もありヘタに触るとインド象でも気絶する。",
+  "follow_developer": "https://twitter.com/intent/user?screen_name=shoma2da"
+}

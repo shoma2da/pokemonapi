@@ -1,0 +1,8 @@
+{
+  "name": "サンド",
+  "classification": "ねずみ",
+  "type": ["じめん"],
+  "image": "http://pokemonapi.net/images/027.gif",
+  "comment": "地面に穴を掘って住む。自分に危険が迫ると丸くなって身を守る。",
+  "follow_developer": "https://twitter.com/intent/user?screen_name=shoma2da"
+}

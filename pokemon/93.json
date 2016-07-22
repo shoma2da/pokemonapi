@@ -1,0 +1,8 @@
+{
+  "name": "ゴースト",
+  "classification": "ガスじょう",
+  "type": ["ゴースト", "どく"],
+  "image": "http://pokemonapi.net/images/093.gif",
+  "comment": "暗闇で誰もいないのに見られているような気がしたらそこにゴーストがいるのだ。",
+  "follow_developer": "https://twitter.com/intent/user?screen_name=shoma2da"
+}

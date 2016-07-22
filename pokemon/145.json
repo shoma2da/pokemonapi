@@ -1,0 +1,8 @@
+{
+  "name": "サンダー",
+  "classification": "でんげき",
+  "type": ["でんき", "ひこう"],
+  "image": "http://pokemonapi.net/images/145.gif",
+  "comment": "伝説の鳥ポケモンの一つ。飛ぶときにバチバチと何かのはじけるような音がする。",
+  "follow_developer": "https://twitter.com/intent/user?screen_name=shoma2da"
+}

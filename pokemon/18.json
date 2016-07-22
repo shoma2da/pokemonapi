@@ -1,0 +1,8 @@
+{
+  "name": "ピジョット",
+  "classification": "とり",
+  "type": ["ノーマル", "ひこう"],
+  "image": "http://pokemonapi.net/images/018.gif",
+  "comment": "美しいハネを広げて相手を威嚇する。マッハ2で空を飛び回る。",
+  "follow_developer": "https://twitter.com/intent/user?screen_name=shoma2da"
+}
